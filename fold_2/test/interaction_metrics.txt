@@ -1,0 +1,8 @@
+AUROC: 0.9798
+AUPR: 0.9811
+Accuracy: 0.9295
+F1 Score: 0.9296
+
+Confusion Matrix:
+6913 540
+511 6942

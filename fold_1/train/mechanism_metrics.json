@@ -1,0 +1,363 @@
+{
+    "The metabolism": {
+        "precision": 0.7641123882503192,
+        "recall": 0.8789481416189217,
+        "f1-score": 0.8175172508027602,
+        "support": 6807.0
+    },
+    "The risk of a hypersensitivity reaction": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+    },
+    "The risk or severity of QTc prolongation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 50.0
+    },
+    "The risk or severity of adverse effects": {
+        "precision": 0.6900042176296921,
+        "recall": 0.8199131306381557,
+        "f1-score": 0.749370180929842,
+        "support": 5986.0
+    },
+    "The risk or severity of bleeding": {
+        "precision": 0.3684210526315789,
+        "recall": 0.2916666666666667,
+        "f1-score": 0.32558139534883723,
+        "support": 24.0
+    },
+    "The risk or severity of hyperkalemia": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "The risk or severity of hypotension": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 44.0
+    },
+    "The risk or severity of myelosuppression": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 25.0
+    },
+    "The risk or severity of myopathy and rhabdomyolysis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "The risk or severity of rhabdomyolysis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 14.0
+    },
+    "The risk or severity of sedation and somnolence": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "The serum concentration": {
+        "precision": 0.8142076502732241,
+        "recall": 0.6586584662694599,
+        "f1-score": 0.728219294517637,
+        "support": 5203.0
+    },
+    "The serum concentration of the active metabolites": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 164.0
+    },
+    "The therapeutic efficacy": {
+        "precision": 0.4799196787148594,
+        "recall": 0.2497387669801463,
+        "f1-score": 0.32852233676975945,
+        "support": 957.0
+    },
+    "a decrease in the absorption resulting in a reduced serum concentration and potentially a decrease in efficacy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "an increase in the absorption resulting in an increased serum concentration and potentially a worsening of adverse effects": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+    },
+    "none": {
+        "precision": 0.8947683945485791,
+        "recall": 0.9431688924463917,
+        "f1-score": 0.918331350752697,
+        "support": 23737.0
+    },
+    "the QTc - prolonging activities": {
+        "precision": 0.5879888268156425,
+        "recall": 0.6048850574712644,
+        "f1-score": 0.5963172804532578,
+        "support": 696.0
+    },
+    "the analgesic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 25.0
+    },
+    "the anticholinergic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "the anticoagulant activities": {
+        "precision": 0.4874551971326165,
+        "recall": 0.5690376569037657,
+        "f1-score": 0.525096525096525,
+        "support": 239.0
+    },
+    "the antihypertensive activities": {
+        "precision": 0.6278195488721805,
+        "recall": 0.3856812933025404,
+        "f1-score": 0.47782546494992845,
+        "support": 433.0
+    },
+    "the antiplatelet activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 33.0
+    },
+    "the arrhythmogenic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 49.0
+    },
+    "the atrioventricular blocking ( AV block ) activities": {
+        "precision": 0.1917808219178082,
+        "recall": 0.1794871794871795,
+        "f1-score": 0.18543046357615894,
+        "support": 78.0
+    },
+    "the bradycardic activities": {
+        "precision": 0.5337837837837838,
+        "recall": 0.4968553459119497,
+        "f1-score": 0.5146579804560261,
+        "support": 159.0
+    },
+    "the bronchodilatory activities": {
+        "precision": 0.2777777777777778,
+        "recall": 0.12195121951219512,
+        "f1-score": 0.1694915254237288,
+        "support": 41.0
+    },
+    "the cardiotoxic activities": {
+        "precision": 0.36036036036036034,
+        "recall": 0.273972602739726,
+        "f1-score": 0.311284046692607,
+        "support": 146.0
+    },
+    "the central nervous system depressant ( CNS depressant ) activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 689.0
+    },
+    "the excretion rate which could result in a higher serum level": {
+        "precision": 0.53,
+        "recall": 0.4818181818181818,
+        "f1-score": 0.5047619047619047,
+        "support": 110.0
+    },
+    "the excretion rate which could result in a lower serum level and potentially a reduction in efficacy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "the fluid": {
+        "precision": 0.42857142857142855,
+        "recall": 0.2571428571428571,
+        "f1-score": 0.32142857142857145,
+        "support": 35.0
+    },
+    "the hepatotoxic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 14.0
+    },
+    "the hyperglycemic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8.0
+    },
+    "the hyperkalemic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 40.0
+    },
+    "the hypertensive activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 50.0
+    },
+    "the hypertensive and vasoconstricting activities": {
+        "precision": 0.1111111111111111,
+        "recall": 0.01694915254237288,
+        "f1-score": 0.029411764705882353,
+        "support": 59.0
+    },
+    "the hypocalcemic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 3.0
+    },
+    "the hypoglycemic activities": {
+        "precision": 0.5964912280701754,
+        "recall": 0.42677824267782427,
+        "f1-score": 0.4975609756097561,
+        "support": 239.0
+    },
+    "the hypokalemic activities": {
+        "precision": 0.5866666666666667,
+        "recall": 0.4631578947368421,
+        "f1-score": 0.5176470588235295,
+        "support": 95.0
+    },
+    "the hyponatremic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "the hypotensive activities": {
+        "precision": 0.4897260273972603,
+        "recall": 0.5909090909090909,
+        "f1-score": 0.5355805243445693,
+        "support": 726.0
+    },
+    "the immunosuppressive activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 34.0
+    },
+    "the myelosuppressive activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+    },
+    "the myopathic rhabdomyolysis activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+    },
+    "the nephrotoxic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 48.0
+    },
+    "the neuroexcitatory activities": {
+        "precision": 0.5897435897435898,
+        "recall": 0.45098039215686275,
+        "f1-score": 0.5111111111111111,
+        "support": 51.0
+    },
+    "the neuromuscular blocking activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "the orthostatic hypotensive activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 102.0
+    },
+    "the respiratory depressant activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "the sedative activities": {
+        "precision": 0.35294117647058826,
+        "recall": 0.25,
+        "f1-score": 0.2926829268292683,
+        "support": 72.0
+    },
+    "the serotonergic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 122.0
+    },
+    "the stimulatory activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 22.0
+    },
+    "the tachycardic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 70.0
+    },
+    "the thrombogenic activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 27.0
+    },
+    "the vasoconstricting activities": {
+        "precision": 0.38095238095238093,
+        "recall": 0.21052631578947367,
+        "f1-score": 0.2711864406779661,
+        "support": 76.0
+    },
+    "the vasodilatory activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "the vasopressor activities": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "accuracy": 0.8073673396649684,
+    "macro avg": {
+        "precision": 0.19214833289123492,
+        "recall": 0.16590045771934256,
+        "f1-score": 0.17463821334590215,
+        "support": 47697.0
+    },
+    "weighted avg": {
+        "precision": 0.7747823901212185,
+        "recall": 0.8073673396649684,
+        "f1-score": 0.7872496001346369,
+        "support": 47697.0
+    }
+}

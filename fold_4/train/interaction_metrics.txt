@@ -1,0 +1,8 @@
+AUROC: 0.9809
+AUPR: 0.9817
+Accuracy: 0.9262
+F1 Score: 0.9260
+
+Confusion Matrix:
+22158 1769
+1752 22019
